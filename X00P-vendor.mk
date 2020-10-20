@@ -829,6 +829,7 @@ PRODUCT_PACKAGES += \
     libgpustats \
     libloc_api_v02 \
     WfdService \
+    IWlanService \
     TimeService \
     PowerOffAlarm \
     QtiTelephonyService \
