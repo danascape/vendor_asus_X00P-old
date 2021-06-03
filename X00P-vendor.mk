@@ -1397,7 +1397,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00P/proprietary/vendor/lib/libchromatix_ov5670_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5670_cpp_liveshot.so \
     vendor/asus/X00P/proprietary/vendor/lib/libchromatix_ov5670_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5670_cpp_preview.so \
     vendor/asus/X00P/proprietary/vendor/lib/libchromatix_ov5670_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5670_cpp_snapshot.so \
-    vendor/asus/X00P/proprietary/vendor/lib/libchromatix_ov5670_cpp_us_chrmatix.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5670_cpp_us_chrmatix.so \
+    vendor/asus/X00P/proprietary/vendor/lib/libchromatix_ov5670_cpp_us_chromatix.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5670_cpp_us_chromatix.so \
     vendor/asus/X00P/proprietary/vendor/lib/libchromatix_ov5670_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5670_cpp_video.so \
     vendor/asus/X00P/proprietary/vendor/lib/libchromatix_ov5670_cpp_video_full.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5670_cpp_video_full.so \
     vendor/asus/X00P/proprietary/vendor/lib/libchromatix_ov5670_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5670_default_video.so \
